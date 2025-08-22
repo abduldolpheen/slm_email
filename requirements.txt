@@ -8,5 +8,5 @@ gspread
 gspread-dataframe
 oauth2client
 requests
-pywin32=311
+pywin32==311
 pythoncom
