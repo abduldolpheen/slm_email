@@ -8,5 +8,5 @@ gspread
 gspread-dataframe
 oauth2client
 requests
-pywin32; sys_platform == "win32"
-pythoncom; sys_platform == "win32"
+pywin32
+pythoncom
